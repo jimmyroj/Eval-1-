@@ -1,7 +1,0 @@
-{
-  "name": "Evaluacion",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "angular"
-}
